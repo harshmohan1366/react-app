@@ -49,15 +49,15 @@ button {
   margin: auto;
 }
 .titles-Wrapper .logo-app {
-  margin-top: 35px;
+  margin-top: 45px;
   max-width: 100%;
 }
 
 .titles-Wrapper h1 {
-  margin: 15px 0 0;
-  color: #ccc;
-  font-size: 13px;
-  font-weight: 400;
+  margin: 25px 0 0;
+  color: #fff;
+  font-size: 17px;
+  font-weight: 300;
 }
 
 
