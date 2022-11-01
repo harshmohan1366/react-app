@@ -3,11 +3,7 @@ React Get Weather app
 
 ## Table of Contents
 
-* [About the Project](#about-the-project)
-* [Installing Instructions](#installing-instructions)
-* [ Offline First ](#offline-first)
-* [Credits](#credits)
-* [License](#license)
+
 
 ## About the Project
 
@@ -21,8 +17,6 @@ This project is a single page application from scratch to work as an interactive
 - Using an error handling messages to improve the user experience.
 
 ## Installing Instructions 
-
-- download zip folder or clone project > https://github.com/sarah27h/react-get-weather-app.git
 
 - For develoment mode
     - `cd` to your project directory
